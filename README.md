@@ -1,5 +1,5 @@
-# RPG Dice Little Bag
-A small project to develop an application that contains the main dice set for role-playing games. The application GUI was developed through Tkinter Package.
+# Small bag of RPG dice
+A little project to develop an application that contains the main dice set for role-playing games. The application GUI was developed through Tkinter Package.
 
 ## Images
 
